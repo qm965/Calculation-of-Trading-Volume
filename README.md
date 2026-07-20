@@ -2,6 +2,10 @@
 
 基于《一个交易者的资金管理系统》第10章：**2% 风险公式 + 交易量公式**，适配加密货币现货 / 永续合约。
 
+**在线地址：** https://qm965.github.io/Calculation-of-Trading-Volume/
+
+推送到 `main` 后，GitHub Actions 会自动构建并发布到 GitHub Pages（仓库 Settings → Pages → Source 需选 **GitHub Actions**）。
+
 ## 公式
 
 ```
